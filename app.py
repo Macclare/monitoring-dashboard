@@ -7,7 +7,7 @@ def dashboard():
     return '''
     <html>
         <head>
-            <title>CEEYIT Dashboard</title>
+            <title>Angela's Dashboard</title>
             <style>
                 body { font-family: Arial; background: #fefefe; text-align: center; margin-top: 100px; }
                 h1 { color: #2a9d8f; }
@@ -15,7 +15,7 @@ def dashboard():
             </style>
         </head>
         <body>
-            <h1>CEEYIT Monitoring Dashboard</h1>
+            <h1>Angela's Monitoring Dashboard</h1>
             <p>Your DevOps metrics will be visualized here.</p>
         </body>
     </html>
